@@ -78,7 +78,7 @@ export default {
 
 .cards{
     display: flex;   
-    border-radius: 10px;
+    border-radius: 5px;
     padding-top: -5px;
     height: 100%;
     background-color: FFFFFF;
@@ -89,8 +89,8 @@ export default {
 }
 
 .cards img{
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
     height: 290px;
     width: 100%;
     transition: transform .5s ease-in-out;
